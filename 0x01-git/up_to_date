@@ -1,0 +1,10 @@
+git clone 
+git add .
+git commit -m "msg"
+git push origin master
+git checkout -b newBranch
+git push origin newBranch
+
+git branch 
+git pull 
+git status
